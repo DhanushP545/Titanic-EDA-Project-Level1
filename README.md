@@ -58,7 +58,7 @@ This project is a **basic exploratory data analysis (EDA)** of the Titanic datas
 ---
 
 ## Author
-[Dhanush Polasi]  
+[Dhanush Polasi](<https://github.com/DhanushP545>)
 Feel free to connect with me on [LinkedIn](<https://www.linkedin.com/in/dhanush-polasi-7972252a4/>)!
 
 ---
