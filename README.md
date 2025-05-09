@@ -1,4 +1,4 @@
-# Titanic EDA Project Level 1
+# Titanic EDA & Survival Prediction Project
 
 This project is a beginner-friendly, end-to-end exploratory data analysis (EDA) and machine learning pipeline based on the Titanic dataset. It was completed using Google Colab and focuses on building strong foundations in data analysis, feature engineering, and model evaluation.
 
