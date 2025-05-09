@@ -30,19 +30,19 @@ This project is a beginner-friendly, end-to-end exploratory data analysis (EDA) 
 - Combined visualizations using `hue` for richer insights
 
 ---
-### 🔹 **Level 2: Machine Learning Pipeline**
+### **Level 2: Machine Learning Pipeline**
 
-#### 📌 Phase 5: Feature Engineering
+#### Phase 5: Feature Engineering
 - Created `family_size` from `sibsp + parch`
 - Encoded categorical columns using One-Hot Encoding
 - Scaled numerical features like `age` and `family_size` using `StandardScaler`
 - Dropped unused or less predictive columns (`name`, `ticket`, `embarked`)
 
-#### 📌 Phase 6: Model Training
+#### Phase 6: Model Training
 - Split the data into training and test sets (80/20)
 - Trained both Logistic Regression and Random Forest models
 
-#### 📌 Phase 7: Model Evaluation
+#### Phase 7: Model Evaluation
 - Used classification report and confusion matrix
 - Compared metrics: precision, recall, F1-score, and accuracy
 - Accuracy achieved: ~85% for both models
@@ -64,7 +64,7 @@ This project is a beginner-friendly, end-to-end exploratory data analysis (EDA) 
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 - Both models performed similarly (~85% accuracy)
 - Feature engineering improved learning quality
@@ -73,7 +73,7 @@ This project is a beginner-friendly, end-to-end exploratory data analysis (EDA) 
 
 ---
 
-## 📁 How to Run
+## How to Run
 - Open the [Google Colab Notebook](https://colab.research.google.com/drive/1WEJsh566Ws7JAQimr4AOFGuvBZV5Bf0x?usp=share_link)
 - Run cells top to bottom. All required libraries are pre-installed in Colab.
 
